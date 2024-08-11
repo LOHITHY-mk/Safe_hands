@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-info{
+    width: 100vh;
+    height: auto;
+    padding: 10px;
+    background-color: rgb(228, 211, 145);
+    margin: 30px 10px;
+    border-radius: 10px;
+}
+.container h1, p{
+    text-align: center;
+}   
